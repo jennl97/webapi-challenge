@@ -26,13 +26,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Two parts of Express that I learned about were Express as a server and Express Middleware.
+
 - [ ] Describe Middleware?
+
+"An array of functions that get executed in the order they are introduced into the server code" 
+I personally like to think of middleware as helper functions. They help you get things done in your code. 
 
 - [ ] Describe a Resource?
 
+Resources are the the data the client is trying to access.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+Status codes with a json message.
+
 - [ ] How can we partition our application into sub-applications?
+
+We can partition our applications into sub-applications by using route handling. 
 
 ## Project Setup
 
